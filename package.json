@@ -1,7 +1,7 @@
 {
-  "name": "myos",
+  "name": "",
   "version": "1.0.0",
-  "description": "Operating System",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,10 @@
   "author": "Divyank Pahlazani",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.12.8",
+    "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
-    "gulp-sass": "^2.3.1",
-    "gulp-uglify": "^1.5.3",
-    "gulp-uglifycss": "^1.0.6"
+    "gulp-imagemin": "^3.0.1",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-uglify": "^1.5.3"
   }
 }
